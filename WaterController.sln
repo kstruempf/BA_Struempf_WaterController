@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterController", "WaterController/WaterController.csproj", "{AA7D9D3E-CD5E-49DD-B289-8B6FAF1E0D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextBrokerLibrary", "ContextBrokerLibrary\ContextBrokerLibrary.csproj", "{BF3F367C-A102-45EA-99D0-E6DAFA4574E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA7D9D3E-CD5E-49DD-B289-8B6FAF1E0D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7D9D3E-CD5E-49DD-B289-8B6FAF1E0D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7D9D3E-CD5E-49DD-B289-8B6FAF1E0D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7D9D3E-CD5E-49DD-B289-8B6FAF1E0D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3F367C-A102-45EA-99D0-E6DAFA4574E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3F367C-A102-45EA-99D0-E6DAFA4574E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3F367C-A102-45EA-99D0-E6DAFA4574E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3F367C-A102-45EA-99D0-E6DAFA4574E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E0C0D8-47B4-4A2D-9D95-46EA854D93F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E0C0D8-47B4-4A2D-9D95-46EA854D93F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E0C0D8-47B4-4A2D-9D95-46EA854D93F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E0C0D8-47B4-4A2D-9D95-46EA854D93F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
