@@ -20,4 +20,4 @@ jobs:
           username: SirPumpkinHead
           password: echo "${{ secrets.GITHUB_TOKEN }}"
           registry: docker.pkg.github.com
-          tagging: true
+          add_git_labels: true
