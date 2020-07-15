@@ -9,7 +9,11 @@ updates:
     directory: "/WaterController" # Location of package manifests
     schedule:
       interval: "daily"
+    assignees:
+      - "SirPumpkinHead"
   - package-ecosystem: "nuget" # See documentation for possible values
     directory: "/ContextBrokerLibrary" # Location of package manifests
     schedule:
       interval: "daily"
+    assignees:
+      - "SirPumpkinHead"
