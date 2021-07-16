@@ -19,7 +19,7 @@ jobs:
         with:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-          registry: docker.pkg.github.com
+          registry: ghcr.io
           repository: sirpumpkinhead/ba_struempf_watercontroller/water-controller
           tag_with_ref: true
       - name: Build and push Docker image to DockerHub
